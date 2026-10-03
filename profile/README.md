@@ -4,19 +4,19 @@
 
 # Superly
 
-给 AI 代理用的浏览器自动化。
+把已登录的网页交给 AI 代理，不打断你。
 
 </div>
 
 ### 欢迎来到 Superly
 
-Superly LLC 做 AI 代理的浏览器自动化。代理在自己的任务空间里打开网页、点击、填写、截图和提取数据，与你正在浏览的页面分开。
+Superly 做给 AI 代理用的浏览器自动化。代理可以直接使用你已经登录的网页，配合 Codex、Claude Code 完成点击、填写、截图和提取数据，你正在看的页面不会被抢走。免费使用，浏览器就绪后即可交给代理。
 
 ### 我们的项目
 
 | 仓库 | 说明 |
 | :-- | :-- |
-| [**superly-agent-browser**](https://github.com/superly-llc/superly-agent-browser) | Superly 的代理浏览器自动化运行时，包含代理技能和 TypeScript 命令行，负责任务空间、页面操作、截图和数据提取。 |
+| [**superly-agent-browser**](https://github.com/superly-llc/superly-agent-browser) | 把已登录的网页交给 AI 代理操作。代理在自己的任务空间里完成自动化，不打断你正在看的页面。 |
 
 ### 许可
 
